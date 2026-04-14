@@ -123,3 +123,20 @@ h1 {
   color: #160637;
   margin-bottom: 20px;
 }
+.launch {
+  width: 974px;
+  height: 435px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.group {
+  width: 412px;
+  height: 435px;
+}
+.prouduct {
+  width: 474px;
+  height: 200px;
+  align-self: center;
+}
