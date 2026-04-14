@@ -15,6 +15,7 @@
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
+  margin-bottom: 120px;
 }
 .Logo {
   width: 48px;
@@ -38,4 +39,44 @@
   border: 1px solid violet;
   color: violet;
   text-decoration: none;
+}
+.data {
+  width: 472px;
+  height: 294px;
+  margin-left: 150px;
+  display: inline-block;
+}
+.learn {
+  width: 228px;
+  color: #722ed1;
+  font-size: 16px;
+  padding: 8px 30px;
+  background-color: #f7f1ff;
+  border-radius: 30px;
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #000;
+}
+.harness {
+  font-size: 16px;
+  font-weight: 500;
+  color: #000000;
+  margin-bottom: 70px;
+}
+.vi {
+  background-color: #722ed1;
+  color: #ffffff;
+  border: none;
+}
+.wh {
+  background-color: #ffffff;
+  color: #722ed1;
+  border: none;
+}
+.tech{
+    width: 472px;
+    height: 370px;
 }
