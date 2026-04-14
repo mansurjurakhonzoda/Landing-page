@@ -140,3 +140,20 @@ h1 {
   height: 200px;
   align-self: center;
 }
+.driven {
+  width: 1174px;
+  height: 414px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.pipelines {
+  width: 509px;
+  height: 200px;
+  align-self: center;
+}
+.image {
+  width: 684px;
+  height: 414px;
+}
