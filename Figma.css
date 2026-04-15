@@ -202,3 +202,112 @@ h1 {
 .brend {
   height: 38px;
 }
+.see {
+  width: 962px;
+  height: 522px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.si {
+  width: 431px;
+  height: 120px;
+  font-size: 32px;
+  font-weight: 700;
+  color: #160637;
+  margin-bottom: 50px;
+}
+.firmi {
+  width: 424px;
+  height: 180px;
+  padding-top: 50px;
+  border-top: 1px solid #cccccc;
+  display: flex;
+  flex-wrap: wrap;
+}
+.accenture-4 {
+  width: 134px;
+  height: 35px;
+  margin-right: 80px;
+}
+.react {
+  width: 63px;
+  height: 56px;
+  margin-left: 80px;
+}
+.airbnb {
+  width: 130px;
+  height: 40px;
+  margin-right: 80px;
+}
+.sky-4 {
+  width: 54px;
+  height: 32px;
+  margin-left: 80px;
+}
+.sign {
+  width: 480px;
+  height: 530px;
+  background-color: #f9f0ff;
+  align-self: flex-end;
+  margin-top: -400px;
+  margin-bottom: 100px;
+}
+form {
+  width: 388px;
+  height: 470px;
+  padding: 20px;
+  background-color: #ffffff;
+  margin: auto;
+}
+label {
+  font-weight: 700;
+  font-size: 24px;
+  color: #160637;
+  margin-left: 156px;
+}
+button {
+  padding: 12px 98px;
+  background-color: #722ed1;
+  color: #ffffff;
+  text-align: center;
+  border: none;
+  margin-left: 45px;
+  margin-top: 20px;
+}
+input {
+  width: 278px;
+  height: 40px;
+  color: #8989a2;
+  background-color: #d9d9d9;
+  border: none;
+  margin-left: 43px;
+  margin-bottom: 20px;
+  padding: 0px 10px;
+}
+#margin-top {
+  margin-top: 20px;
+}
+#dalshe {
+  margin-left: 180px;
+}
+.google {
+  width: 180px;
+  height: 48px;
+  margin: auto;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.login {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 20px 59px;
+  text-align: center;
+  border-top: 1px solid #cccccc;
+}
+b {
+  font-size: 14px;
+  font-weight: 500;
+  color: #722ed1;
+}
