@@ -311,3 +311,81 @@ b {
   font-weight: 500;
   color: #722ed1;
 }
+.end {
+  width: 965px;
+  height: 360px;
+  padding: 20px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.one {
+  width: 209px;
+  height: 222px;
+}
+.lor {
+  width: 209px;
+  height: 120px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #160637;
+  line-height: 20px;
+  padding: 10px 0px;
+}
+.social {
+  width: 76px;
+  height: 16px;
+}
+.two {
+  width: 72px;
+  height: 244px;
+}
+.dwa,
+#ema {
+  font-size: 16px;
+  font-weight: 700;
+  color: #160637;
+  margin-bottom: 10px;
+}
+ul {
+  list-style: none;
+  padding: 0px;
+}
+li {
+  font-size: 12px;
+  font-weight: 500;
+  color: #160637;
+  margin: 10px 0px;
+}
+.three {
+  width: 121px;
+  height: 132px;
+}
+.four {
+  width: 76px;
+  height: 104px;
+}
+.five {
+  width: 90px;
+  height: 216px;
+}
+.six {
+  width: 180px;
+  height: 78px;
+}
+#six {
+  width: 180px;
+  height: 78px;
+}
+#ema {
+  margin: 0px;
+}
+#email {
+  width: 160px;
+  height: 40px;
+  margin: 0px;
+  margin-top: 10px;
+  background-color: #ffffff;
+  color: #8989a2;
+  border: 1px solid #cccccc;
+}
